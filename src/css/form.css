@@ -1,0 +1,31 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+#newObs{
+    font-weight: 400;
+}
+.required {
+    color: red;
+}
+
+.label {
+    font-weight: 400;
+
+}
+
+#desc {
+    width: 500px;
+}
+
+#notes{
+    width: 525px;
+    height: 80px;
+}
+
+#name{
+    width:500px;
+}
+
+#email{
+    width:500px;
+}
